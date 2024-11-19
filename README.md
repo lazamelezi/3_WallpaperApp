@@ -1,7 +1,7 @@
 # Simple WallpaperApp
 A straightforward demo wallpaper app featuring a JSON file with wallpaper links stored in the assets folder.
-- Key Features:
-- Download Wallpaper
+Key Features:
+- Download Wallpapers
 - Search Wallpapers 
 - Sort by Collections
 - Clean UI 
@@ -9,7 +9,7 @@ A straightforward demo wallpaper app featuring a JSON file with wallpaper links 
 ## Screenshots
 <table>
   <tr><img src='https://github.com/lazamelezi/3_WallpaperApp/blob/master/assets/1.png'></td>
-    <img src='https://github.com/lazamelezi/3_WallpaperApp/blob/master/assets/2.png'></td>
+    <td><img src='https://github.com/lazamelezi/3_WallpaperApp/blob/master/assets/2.png'></td>
     <td><img src='https://github.com/lazamelezi/3_WallpaperApp/blob/master/assets/3.png'></td>
     <td><img src='https://github.com/lazamelezi/3_WallpaperApp/blob/master/assets/4.png'></td>
     <td><img src='https://github.com/lazamelezi/3_WallpaperApp/blob/master/assets/5.png'></td>
