@@ -1,6 +1,5 @@
 # Simple WallpaperApp
 A straightforward demo wallpaper app featuring a JSON file with wallpaper links stored in the assets folder.
-  Key Features:
 - Download Wallpapers
 - Search Wallpapers 
 - Sort by Collections
