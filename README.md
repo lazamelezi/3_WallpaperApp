@@ -11,11 +11,11 @@ This is a simple demo wallpaper app which contains wallpaper links (json file) i
   </tr>
 </table>
 <p float="left">
-    <img src='https://github.com/lazamelezi/3_WallpaperApp/blob/master/assets/2.png'>
-    <img src='https://github.com/lazamelezi/3_WallpaperApp/blob/master/assets/3.png'>
-    <img src='https://github.com/lazamelezi/3_WallpaperApp/blob/master/assets/4.png'>
-    <img src='https://github.com/lazamelezi/3_WallpaperApp/blob/master/assets/5.png'>
-    <img src='https://github.com/lazamelezi/3_WallpaperApp/blob/master/assets/6.png'>
-    <img src='https://github.com/lazamelezi/3_WallpaperApp/blob/master/assets/7.png'>
-    <img src='https://github.com/lazamelezi/3_WallpaperApp/blob/master/assets/8.png'>
+    <img src='https://github.com/lazamelezi/3_WallpaperApp/blob/master/assets/2.png'width="320">
+    <img src='https://github.com/lazamelezi/3_WallpaperApp/blob/master/assets/3.png'width="320">
+    <img src='https://github.com/lazamelezi/3_WallpaperApp/blob/master/assets/4.png'width="320">
+    <img src='https://github.com/lazamelezi/3_WallpaperApp/blob/master/assets/5.png'width="320">
+    <img src='https://github.com/lazamelezi/3_WallpaperApp/blob/master/assets/6.png'width="320">
+    <img src='https://github.com/lazamelezi/3_WallpaperApp/blob/master/assets/7.png'width="320">
+    <img src='https://github.com/lazamelezi/3_WallpaperApp/blob/master/assets/8.png'width="320">
 </p>
